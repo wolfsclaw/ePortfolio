@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="firebase_cpp_sdk_windows_12.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Artifact_1/cs499_final_matthew_marsh/build/windows/x64/firebase_cpp_sdk_windows_12.7.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

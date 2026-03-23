@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232728949907",
+    "project_id": "cs499inventoryapp",
+    "storage_bucket": "cs499inventoryapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232728949907:android:45c8da4262067b59200966",
+        "android_client_info": {
+          "package_name": "com.matthew.cs499.cs499_final_matthew_marsh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl0OYnP5hNilrNXp_0-9K0L1zOdyI1HAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
