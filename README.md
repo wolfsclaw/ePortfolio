@@ -90,13 +90,6 @@ Developing this ePortfolio helped me:
 **Tools:** GitHub, GitHub Desktop, VS Code  
 **Strengths:** UI/UX design, cloud integration, architecture, testing, documentation
 
-<hr style="border: 1px solid #003366;">
-
-# 📫 Connect
-
-**Email:** your-email@example.com  
-**LinkedIn:** https://www.linkedin.com/in/your-profile  
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
