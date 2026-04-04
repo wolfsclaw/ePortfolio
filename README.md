@@ -1,7 +1,3 @@
-<table width="100%">
-  <tr>
-    <td style="background-color:#cfe8ff; padding: 30px;">
-
 <h1 align="center">Matthew Marsh</h1>
 <h3 align="center" style="color:#003366;">Software Developer • Mobile Apps • Cloud • Full‑Stack Engineering</h3>
 
@@ -89,7 +85,3 @@ Developing this ePortfolio helped me:
 **Frameworks:** Flutter, Firebase, Firestore  
 **Tools:** GitHub, GitHub Desktop, VS Code  
 **Strengths:** UI/UX design, cloud integration, architecture, testing, documentation
-
-</td>
-</tr>
-</table>
