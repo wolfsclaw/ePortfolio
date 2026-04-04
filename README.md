@@ -2,7 +2,7 @@
   <tr>
     <td style="background-color:#cfe8ff; padding: 30px;">
 
-<h1 align="center">🚀 Matthew Marsh</h1>
+<h1 align="center">Matthew Marsh</h1>
 <h3 align="center" style="color:#003366;">Software Developer • Mobile Apps • Cloud • Full‑Stack Engineering</h3>
 
 <p align="center" style="color:#000;">
