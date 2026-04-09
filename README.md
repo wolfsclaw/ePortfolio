@@ -70,7 +70,7 @@ Developing this ePortfolio helped me:
 - 👉 [Artifact 1 – Codebase Enhancement](./Artifact_1)  
 - 👉 [Artifact 2 – Algorithm & Data Structure](./Artifact_2)  
 - 👉 [Artifact 3 – Database & Cloud Integration](./Artifact_3)
-- 👉 [Original Artifact - The artifact I used to enhance for my capstone](./Original_Artifact)
+- 👉 [Original Artifact - Inventory Management App](./Original_Artifact)
 
 <hr style="border: 1px solid #003366;">
 
