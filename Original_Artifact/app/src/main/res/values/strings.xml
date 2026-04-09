@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project3_FinalProject</string>
+    <string name="brandName">Inventory Management</string>
+    <string name="usernameLabel">Username</string>
+    <string name="passwordLabel">Password</string>
+    <string name="logInButton">Log In</string>
+    <string name="signUpQuestion">Don’t have an account?</string>
+    <string name="signUpButton">Sign Up</string>
+    <string name="fab_content_desc">Adds a new item</string>
+    <string name="item_title">Flour</string>
+    <string name="item_quantity">15</string>
+    <string name="item_quantity_units">Lbs.</string>
+    <string name="item_increase_button">Increase</string>
+    <string name="item_decrease_button">Decrease</string>
+    <string name="item_delete_button">Delete</string>
+    <string name="sms_status_label">SMS Status</string>
+    <string name="sms_status">Inactive</string>
+    <string name="sms_description">To improve your experience, Inventory Management can alert you in case of low inventory!</string>
+    <string name="sms_request">Activate SMS</string>
+</resources>
