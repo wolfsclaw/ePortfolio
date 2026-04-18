@@ -71,7 +71,11 @@ Developing this ePortfolio helped me:
 - 👉 [Artifact 2 – Algorithm & Data Structure](./Artifact_2)  
 - 👉 [Artifact 3 – Database & Cloud Integration](./Artifact_3)
 - 👉 [Original Artifact - Inventory Management App](./Original_Artifact)
-
+  
+📁 **Narratives**
+- 👉[Artifact 1 Narrative](Artifact_1/Milestone2Enhancement_Matthew_Marsh.docx)
+- 👉[Artifact 2 Narrative](Artifact_2/Milestone_Three_Matthew_Marsh.docx)
+- 👉[Artifact 3 Narrative](Artifact_3/Milestone_Four_Matthew_Marsh.docx)
 <hr style="border: 1px solid #003366;">
 
 ## 🎥 Code Review Video
